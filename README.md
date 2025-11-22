@@ -1,7 +1,7 @@
 # certifications-and-badges
 This repository serves as a portfolio of my professional growth and technical achievements. It includes verified certifications, digital badges, seminar participation, and cybersecurity challenges completed through various platforms.
 
-## 🏆 ** Badges**
+## 🏆 Badges
 | Badge | Certification |
 |-------|--------------|
 | <img src="https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="60"> | **Cisco Networking Basics** |
